@@ -1,0 +1,10 @@
+{
+  "description": "Connect students and brands through a dynamic design festival at IIT Roorkee, fostering creativity and collaboration through competitions, workshops, and networking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
